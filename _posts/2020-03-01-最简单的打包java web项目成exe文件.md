@@ -1,5 +1,7 @@
 ---
 layout: post
+tags: IDEA
+categories: 技术分享
 title:  "最简单的打包：javaWeb项目打包成exe文件的方法！"
 ---
 
