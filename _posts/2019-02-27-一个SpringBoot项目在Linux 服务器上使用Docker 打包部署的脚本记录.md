@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: SpringBoot, Docker
+tags: SpringBoot Docker
 categories: 个人笔记
 title:  "一个SpringBoot项目在Linux 服务器上使用Docker 打包部署的脚本记录"
 ---

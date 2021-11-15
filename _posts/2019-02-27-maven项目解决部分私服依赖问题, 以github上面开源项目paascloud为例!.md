@@ -5,7 +5,7 @@ categories: 技术分享
 title:  "maven项目解决部分私服依赖问题, 以github上面开源项目paascloud为例!"
 ---
 
-### 最近在研究一个github上面的 [SpringCloud开源项目](https://github.com/paascloud/paascloud-master), 该项目使用到了一些不是中央仓库的包, 这些个包是作者自己搞的, 虽说提供了, 但是没有走仓库下载总感觉少了点啥, 为此搭建了一个私人仓库来解决依赖的问题, 话不多说,开整
+> 最近在研究一个github上面的 [SpringCloud开源项目](https://github.com/paascloud/paascloud-master), 该项目使用到了一些不是中央仓库的包, 这些个包是作者自己搞的, 虽说提供了, 但是没有走仓库下载总感觉少了点啥, 为此搭建了一个私人仓库来解决依赖的问题, 话不多说,开整
 * 想要使用私服必须要做2件事, 第一件事:在项目的根 `pom` 文件中添加私服仓库的配置地址等相关信息:
 ```xml
 <repositories>
