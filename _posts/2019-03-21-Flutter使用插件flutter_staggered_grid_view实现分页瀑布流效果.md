@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: flutter
+tags: Flutter
 categories: 技术分享
 title:  "Flutter使用插件flutter_staggered_grid_view实现分页瀑布流效果"
 ---
