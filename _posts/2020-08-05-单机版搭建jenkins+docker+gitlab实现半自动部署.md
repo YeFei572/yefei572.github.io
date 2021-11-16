@@ -20,7 +20,7 @@ title:  "单机版搭建jenkins+docker+gitlab实现半自动部署"
 	- `docker`：`19.03.12`
 	- `git`:  `2.18.4`
 - 说明：
-这里对系统安装、`gitlab`安装、`docker`安装`不做说明，可以参考[该博客](https://)，亦可以自行谷歌百度。
+这里对系统安装、`gitlab`安装、`docker`安装`不做说明，亦可以自行谷歌百度。
 
 ### 2、安装`jenkins`
 
