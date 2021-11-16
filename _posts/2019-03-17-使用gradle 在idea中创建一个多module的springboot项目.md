@@ -24,13 +24,13 @@ title:  "使用gradle 在idea中创建一个多module的SpringBoot项目"
   gradle init
   ```
 #### 二. 以上命令已经初始化完了项目的根目录，然后就直接用intellij idea打开该目录
-<br/> ![png](https://pic.keppel.fun/qiniuyun/39d7c5db807e4f86bd40c475ac8db288_1.png)
+<br/> ![png](https://pic.v2ss.cn/qiniuyun/39d7c5db807e4f86bd40c475ac8db288_1.png)
 	---
-	![2jpg](https://pic.keppel.fun/qiniuyun/1d1de6d887e24998aeb40910442e02c9_2.jpg) 
+	![2jpg](https://pic.v2ss.cn/qiniuyun/1d1de6d887e24998aeb40910442e02c9_2.jpg) 
 <br>
 
 #### 三. 此时项目结构如上图所示， 然后开始新增通用模块 **common**, 右键keppel根项目new-module
-<br/>![3jpg](https://pic.keppel.fun/qiniuyun/21e11324a06a4572b588cb6de2cb2ab2_3.jpg) 
+<br/>![3jpg](https://pic.v2ss.cn/qiniuyun/21e11324a06a4572b588cb6de2cb2ab2_3.jpg) 
 
 
 
@@ -164,7 +164,7 @@ public class ApiApplication {
 ```
 #### 八. 此时此刻，项目已经搭建完成大半了。项目的结构图如下图所示：
 ****
-  ![4jpg](https://pic.keppel.fun/qiniuyun/b26518a6cd7b496eaec58a0cf14df931_4.jpg) 
+  ![4jpg](https://pic.v2ss.cn/qiniuyun/b26518a6cd7b496eaec58a0cf14df931_4.jpg) 
 
 
 

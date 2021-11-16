@@ -192,9 +192,9 @@ task dockerBuilder(type: Docker) {
 ```
 
 如果你开发主机为win系列的你可以直接通过idea来进行build
-![imagepng](https://pic.keppel.fun/qiniuyun/db89288eb7034a298d364d4627f3db78_image.png)
+![imagepng](https://pic.v2ss.cn/qiniuyun/db89288eb7034a298d364d4627f3db78_image.png)
 双击命令就可以了
-![imagepng](https://pic.keppel.fun/qiniuyun/0ff38e838d7843b6a0aa207a8802aea1_image.png)
+![imagepng](https://pic.v2ss.cn/qiniuyun/0ff38e838d7843b6a0aa207a8802aea1_image.png)
 镜像文件找不到在哪儿, 反正就是api.tar里面的吧
 真正的是通过Ubuntu来进行打包, 贴个自己写的脚本, 亲测已经打包docker成功
 
