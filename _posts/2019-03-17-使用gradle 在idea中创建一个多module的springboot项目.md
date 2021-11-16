@@ -171,8 +171,3 @@ public class ApiApplication {
 #### 九. 开始测试项目是否搭建成功
   创建一个新的module： **user** module， build.gradle和**api**的一样，引入common
   然后编写一个类进行测试
-
-
-   
-
-   </font>
