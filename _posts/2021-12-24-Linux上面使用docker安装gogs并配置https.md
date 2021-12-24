@@ -64,7 +64,13 @@ server {
 ### 四、填写`gogs配置`信息
 
 不出意外此时gogs的web管理段已经启动，可以直接访问： https://git.v2ss.cn/install。本页面能且只能访问一次，配置好了就不能再次访问了。
-[config](./asset/git.v2ss.cn_install.png)
+[config](asset/git.v2ss.cn_install.png)
 
 
 ### 五、登陆测试
+
+直接登陆一顿操作就可以了
+
+### 六、说明：
+
+目前最新版好像有问题，本文用的版本是`0.12`
