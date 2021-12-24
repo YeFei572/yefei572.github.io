@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: Docker
-categories: 技术分享 Nexus
+categories: 技术分享
 title:  "使用docker创建私服（Nexus3）"
 ---
 
