@@ -60,7 +60,7 @@ jobs:
 
 #### 2、创建仓库的secret
 创建仓库的secret，其名字为：`ACTION_TOKEN`
-![创建Action_token]({{ site.url }}/assets/images/1.png)
+![创建Action_token]({{ site.url }}/assets/1.png)
 
 #### 3、推送触发打包
 以上所有的操作完善后，本地执行如下代码：
