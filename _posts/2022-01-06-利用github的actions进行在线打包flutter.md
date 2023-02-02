@@ -69,4 +69,10 @@ jobs:
 # 根据具体情况修改tag版本号
 git tag v1.0.0
 git push --tags
+
+
+# 删除远程标签
+git push origin :refs/tags/v1.0.4
+# 删除本地标签
+git tag -d v1.0.4
 ```
