@@ -41,7 +41,7 @@ title:  "关于url_launcher打开另一个app的两种方式"
 
 ### 二、url_launcher方法修改源码
 `url_launcher`默认打开依赖方法一的设置，如果想强制应用外打开的话，就需要修改`url_launcher`的源码，`url_launcher`没有对外暴露应用外打开的参数。使用`AndroidStudio`打开项目，按照下图修改：
-![]({{ site.url }}/assets/18.png)
+![]({{ site.url }}/assets/19.png)
 
 ### 三、总结
 个人建议能不修改源码就不修改，如果非要修改就可以`fork`一分代码，自己依赖。
