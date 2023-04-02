@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: Flutter
+tags: RocketMQ
 categories: 技术分享
-title:  "关于url_launcher打开另一个app的两种方式"
+title:  "Springboot使用rocketmq-spring-boot-starter集成阿里云ONS（RocketMQ）"
 ---
 > 最近在抽离专用工具模块，发现一个问题，就是使用阿里云的队列产品ONS，也就是`rocketmq`,因为`ons-client`有臭名昭著的`fastjson`依赖，且最新版的`ons-clinet`还用着老版本的`fastjson`,有一两个漏洞，为了安全起见，就用`apache`官方的组件`rocketmq-spring-boot-starter`依赖，这里记录一下。
 
