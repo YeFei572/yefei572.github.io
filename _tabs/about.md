@@ -9,10 +9,13 @@ order: 4
 90后程序猿，爱好码代码、研究技术。
 
 ## 技术栈
-- JAVA
+- Java
 - Flutter
 - Vue
 - React
 - 微信小程序
 - Linux
 - 运维相关知识
+
+## 联系方式
+email: keppelfei@gmail.com
