@@ -1,9 +1,10 @@
 ---
 layout: post
-tags: 后端
+tags: SpringBoot
 categories: 技术分享
 title:  "springdoc-openapi-javadoc无侵入注解模式生成接口文档使用方法.md"
 ---
+
 > 随着技术升级，现在的接口文档越来越叼了，经历过了手写接口文档、注解式文档，现在终于迎来了无侵入式文档哩~ 不废话，开整！
 
 ### 一、老规矩，引入依赖
